@@ -56,23 +56,21 @@ Durante o percurso, os participantes podem contribuir com mini-apresentações, 
 
 ---
 
-## Estrutura de Desafios Mensais
+## Estrutura de Desafios Quinzenais
 
-Cada mês conta com um conjunto de tarefas práticas para fixação.
+Cada encontro quinzenal conta com um conjunto de tarefas práticas para fixação, divididas em duas semanas:
 
-### Exemplo de Atividades (Mês de Julho: Ferramentas e Solidity)
+### Exemplo de Atividades (Sessão 01: Introdução à Blockchain)
 
-#### Atividades Fáceis
-1. Instalar o Node.js e verificar a versão via terminal.
-2. Criar uma carteira na Metamask e configurar uma rede de teste (Testnet).
-3. Solicitar tokens de teste em um Faucet oficial.
-4. Identificar os tipos de variáveis (uint, string, address) em um contrato existente.
+#### Semana A: Conceitos e Definições
+1. **Os Três Pilares (IBM):** Com base no artigo da IBM, a blockchain é composta por três elementos principais: o registro de transações, os ativos e os participantes. Explique, com suas palavras, por que a "imutabilidade" é o que sustenta a confiança entre esses participantes.
+2. **O Problema do Gasto Duplo (Medium):** De acordo com o artigo, como a blockchain resolve o problema de gastar a mesma moeda digital duas vezes sem depender de um banco central?
+3. **Descentralização vs. Centralização (Vídeo):** Após assistir ao vídeo, cite um risco de segurança que existe em sistemas centralizados e como a descentralização ajuda a mitigá-lo.
 
-#### Atividades Intermediárias
-5. Inicializar um projeto Hardhat do zero e realizar o compile com sucesso.
-6. Escrever um contrato Solidity que armazene um número e possua uma função para alterá-lo.
-7. Configurar o Forge (Foundry) no ambiente local e rodar os testes padrão.
-8. Criar um script simples em JavaScript para ler o saldo de uma conta via provedor (RPC).
+#### Semana B: Aplicação Técnica e de Mercado
+4. **Mecanismos de Blockchain (AWS):** O artigo da AWS descreve como o sistema funciona. Explique brevemente o papel do "Hash" na criação da corrente de blocos e o que acontece se alguém tentar alterar uma transação antiga.
+5. **Segurança Empresarial (Venturus):** No blog do Venturus, são citadas vantagens da blockchain para empresas. Escolha uma das vantagens (como transparência ou rastreabilidade) e descreva como ela melhora a segurança de um processo de negócio.
+6. **Soluções Reais (Venturus Website):** Navegue pelas soluções de blockchain oferecidas pelo Venturus. Identifique uma aplicação prática mencionada e explique como ela utiliza os fundamentos que estudamos (confiança e imutabilidade).
 ---
 
 ## Repositório
