@@ -38,6 +38,6 @@ Dividimos as tarefas para que você possa praticar um pouco a cada semana até o
 
 2.  **Como o Bitcoin Funciona (Vídeo):** Após assistir ao vídeo de 25 minutos do 3Blue1Brown, descreva o papel das chaves públicas e privadas nas transações Bitcoin. O que é uma assinatura digital e como ela é verificada por qualquer pessoa na rede?
 
-3.  **Atividade Prática — Gerador de Hash:** Use um gerador de hash SHA-256 online (como [hash.sh](https://www.hash.sh/en/sha256)) e compare os hashes de duas mensagens ligeiramente diferentes (ex: `"bitcoin"` vs `"Bitcoin"`). O que muda no resultado? Por que pequenas alterações geram resultados completamente diferentes?
+3.  **Atividade Prática — Gerador de Hash:** Use um gerador de hash SHA-256 online (como [hashgenerator](https://hashgenerator.co)) e compare os hashes de duas mensagens ligeiramente diferentes (ex: `"bitcoin"` vs `"Bitcoin"`). O que muda no resultado? Por que pequenas alterações geram resultados completamente diferentes?
 
 ---
